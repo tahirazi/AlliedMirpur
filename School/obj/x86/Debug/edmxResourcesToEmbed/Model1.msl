@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="schoolModelStoreContainer" CdmEntityContainer="schoolEntities">
+    <EntitySetMapping Name="finances">
+      <EntityTypeMapping TypeName="schoolModel.finance">
+        <MappingFragment StoreEntitySet="finance">
+          <ScalarProperty Name="std_id" ColumnName="std_id" />
+          <ScalarProperty Name="account_no" ColumnName="account_no" />
+          <ScalarProperty Name="bank_name" ColumnName="bank_name" />
+          <ScalarProperty Name="branch_code" ColumnName="branch_code" />
+          <ScalarProperty Name="std_name" ColumnName="std_name" />
+          <ScalarProperty Name="std_class" ColumnName="std_class" />
+          <ScalarProperty Name="std_section" ColumnName="std_section" />
+          <ScalarProperty Name="due_date" ColumnName="due_date" />
+          <ScalarProperty Name="validity_date" ColumnName="validity_date" />
+          <ScalarProperty Name="issue_date" ColumnName="issue_date" />
+          <ScalarProperty Name="registration_fee" ColumnName="registration_fee" />
+          <ScalarProperty Name="admission_fee" ColumnName="admission_fee" />
+          <ScalarProperty Name="security_deposit" ColumnName="security_deposit" />
+          <ScalarProperty Name="annual_charge" ColumnName="annual_charge" />
+          <ScalarProperty Name="prospectus" ColumnName="prospectus" />
+          <ScalarProperty Name="tuition_fee" ColumnName="tuition_fee" />
+          <ScalarProperty Name="computer_ict_fee" ColumnName="computer_ict_fee" />
+          <ScalarProperty Name="lab_charges" ColumnName="lab_charges" />
+          <ScalarProperty Name="arrears" ColumnName="arrears" />
+          <ScalarProperty Name="safety_fee" ColumnName="safety_fee" />
+          <ScalarProperty Name="admission_process_fee" ColumnName="admission_process_fee" />
+          <ScalarProperty Name="ict_book" ColumnName="ict_book" />
+          <ScalarProperty Name="uniform_fee" ColumnName="uniform_fee" />
+          <ScalarProperty Name="other" ColumnName="other" />
+          <ScalarProperty Name="fine" ColumnName="fine" />
+          <ScalarProperty Name="before_due_date" ColumnName="before_due_date" />
+          <ScalarProperty Name="after_due_date" ColumnName="after_due_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stdBasics">
+      <EntityTypeMapping TypeName="schoolModel.stdBasic">
+        <MappingFragment StoreEntitySet="stdBasic">
+          <ScalarProperty Name="std_id" ColumnName="std_id" />
+          <ScalarProperty Name="branch_code" ColumnName="branch_code" />
+          <ScalarProperty Name="std_web_portal_id" ColumnName="std_web_portal_id" />
+          <ScalarProperty Name="account_no" ColumnName="account_no" />
+          <ScalarProperty Name="bank_name" ColumnName="bank_name" />
+          <ScalarProperty Name="std_name" ColumnName="std_name" />
+          <ScalarProperty Name="father_name" ColumnName="father_name" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="std_address" ColumnName="std_address" />
+          <ScalarProperty Name="std_class" ColumnName="std_class" />
+          <ScalarProperty Name="std_section" ColumnName="std_section" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,140 @@
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\bin\Debug\School.exe
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\bin\Debug\School.pdb
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Form1.resources
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Properties.Resources.resources
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.exe
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.pdb
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Add_Student.resources
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Edit_Student.resources
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Delete_Student.resources
+c:\users\tahir aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Challan.resources
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\bin\Debug\School.exe.config
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Report.resources
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Student_Search.resources
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Print.resources
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.csproj.GenerateResource.Cache
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\bin\Debug\School.exe.manifest
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\bin\Debug\School.application
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.TrustInfo.xml
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.exe.manifest
+C:\Users\Tahir Aziz\documents\visual studio 2010\Projects\School\School\obj\x86\Debug\School.application
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.exe.config
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.exe
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.pdb
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.exe.manifest
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.application
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.exe
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.pdb
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Add_Student.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Delete_Student.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Edit_Student.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Challan.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Print.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Report.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Form1.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Properties.Resources.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Student_Search.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.TrustInfo.xml
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.exe.manifest
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.application
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Backup.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Edit_Challan.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Delete_Challan.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Sums.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.All_Fee_Report.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.All_Challan.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Student_Data.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Challan_Data.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Update_Status.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Update_Status_2.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.All_Challan.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.All_Fee_Report.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Backup.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Challan_Data.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Delete_Challan.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Edit_Challan.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Student_Data.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Sums.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Update_Status_2.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Update_Status.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.csproj.GenerateResource.Cache
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Practice.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Bulk_Challan_Insertion.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.exe.config
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.exe
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.pdb
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.exe.manifest
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.application
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.exe
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\bin\Debug\School.pdb
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Add_Student.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.All_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.All_Fee_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Backup.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Bulk_Challan_Insertion.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Challan_Data.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Delete_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Delete_Student.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Edit_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Edit_Student.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Print.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Fee_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Form1.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Practice.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Properties.Resources.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Student_Data.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Student_Search.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Sums.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Update_Status_2.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.Update_Status.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.csproj.GenerateResource.Cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\RdlCompile.cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\RdlCompile.compiled
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.TrustInfo.xml
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.exe.manifest
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.application
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\School\School\obj\x86\Debug\School.ACP.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\bin\Debug\School.exe.config
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.exe
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.pdb
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\bin\Debug\School.exe.manifest
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\bin\Debug\School.application
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\bin\Debug\School.exe
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\bin\Debug\School.pdb
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.ACP.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Add_Student.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.All_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.All_Fee_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Backup.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Bulk_Challan_Insertion.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Challan_Data.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Delete_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Delete_Student.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Edit_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Edit_Student.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Fee_Challan.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Fee_Print.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Fee_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Form1.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Practice.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Properties.Resources.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Student_Data.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Student_Search.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Sums.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Update_Status_2.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.Update_Status.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.csproj.GenerateResource.Cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\RdlCompile.cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\RdlCompile.compiled
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.TrustInfo.xml
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.exe.manifest
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.application

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="schoolModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="schoolModelStoreContainer">
+    <EntitySet Name="finance" EntityType="schoolModel.Store.finance" store:Type="Tables" store:Schema="dbo" store:Name="finance">
+      <DefiningQuery>SELECT 
+      [finance].[std_id] AS [std_id], 
+      [finance].[account_no] AS [account_no], 
+      [finance].[bank_name] AS [bank_name], 
+      [finance].[branch_code] AS [branch_code], 
+      [finance].[std_name] AS [std_name], 
+      [finance].[std_class] AS [std_class], 
+      [finance].[std_section] AS [std_section], 
+      [finance].[due_date] AS [due_date], 
+      [finance].[validity_date] AS [validity_date], 
+      [finance].[issue_date] AS [issue_date], 
+      [finance].[registration_fee] AS [registration_fee], 
+      [finance].[admission_fee] AS [admission_fee], 
+      [finance].[security_deposit] AS [security_deposit], 
+      [finance].[annual_charge] AS [annual_charge], 
+      [finance].[prospectus] AS [prospectus], 
+      [finance].[tuition_fee] AS [tuition_fee], 
+      [finance].[computer_ict_fee] AS [computer_ict_fee], 
+      [finance].[lab_charges] AS [lab_charges], 
+      [finance].[arrears] AS [arrears], 
+      [finance].[safety_fee] AS [safety_fee], 
+      [finance].[admission_process_fee] AS [admission_process_fee], 
+      [finance].[ict_book] AS [ict_book], 
+      [finance].[uniform_fee] AS [uniform_fee], 
+      [finance].[other] AS [other], 
+      [finance].[fine] AS [fine], 
+      [finance].[before_due_date] AS [before_due_date], 
+      [finance].[after_due_date] AS [after_due_date]
+      FROM [dbo].[finance] AS [finance]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="stdBasic" EntityType="schoolModel.Store.stdBasic" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__finance__std_id__023D5A04" Association="schoolModel.Store.FK__finance__std_id__023D5A04">
+      <End Role="stdBasic" EntitySet="stdBasic" />
+      <End Role="finance" EntitySet="finance" />
+    </AssociationSet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'school.dbo.finance' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="finance">
+    <Key>
+      <PropertyRef Name="std_id" />
+      <PropertyRef Name="std_name" />
+    </Key>
+    <Property Name="std_id" Type="int" Nullable="false" />
+    <Property Name="account_no" Type="varchar" MaxLength="50" />
+    <Property Name="bank_name" Type="varchar" MaxLength="50" />
+    <Property Name="branch_code" Type="varchar" MaxLength="30" />
+    <Property Name="std_name" Type="varchar" Nullable="false" MaxLength="70" />
+    <Property Name="std_class" Type="nvarchar" MaxLength="30" />
+    <Property Name="std_section" Type="nvarchar" MaxLength="30" />
+    <Property Name="due_date" Type="varchar" MaxLength="12" />
+    <Property Name="validity_date" Type="varchar" MaxLength="12" />
+    <Property Name="issue_date" Type="varchar" MaxLength="12" />
+    <Property Name="registration_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="admission_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="security_deposit" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="annual_charge" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="prospectus" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="tuition_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="computer_ict_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="lab_charges" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="arrears" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="safety_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="admission_process_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="ict_book" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="uniform_fee" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="other" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="fine" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="before_due_date" Type="numeric" Precision="12" Scale="2" />
+    <Property Name="after_due_date" Type="numeric" Precision="12" Scale="2" />
+  </EntityType>
+  <EntityType Name="stdBasic">
+    <Key>
+      <PropertyRef Name="std_id" />
+    </Key>
+    <Property Name="std_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="branch_code" Type="varchar" MaxLength="30" />
+    <Property Name="std_web_portal_id" Type="varchar" MaxLength="30" />
+    <Property Name="account_no" Type="varchar" MaxLength="50" />
+    <Property Name="bank_name" Type="varchar" MaxLength="50" />
+    <Property Name="std_name" Type="varchar" Nullable="false" MaxLength="70" />
+    <Property Name="father_name" Type="varchar" MaxLength="70" />
+    <Property Name="phone" Type="varchar" MaxLength="15" />
+    <Property Name="std_address" Type="nvarchar" MaxLength="150" />
+    <Property Name="std_class" Type="nvarchar" MaxLength="30" />
+    <Property Name="std_section" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <Association Name="FK__finance__std_id__023D5A04">
+    <End Role="stdBasic" Type="schoolModel.Store.stdBasic" Multiplicity="1" />
+    <End Role="finance" Type="schoolModel.Store.finance" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="stdBasic">
+        <PropertyRef Name="std_id" />
+      </Principal>
+      <Dependent Role="finance">
+        <PropertyRef Name="std_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="FeeDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>
