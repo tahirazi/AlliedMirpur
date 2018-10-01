@@ -138,3 +138,6 @@ C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\Scho
 C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.TrustInfo.xml
 C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.exe.manifest
 C:\Users\pktah\OneDrive\Documents\Visual Studio 2010\Projects\Allied Mirpur\School\obj\x86\Debug\School.application
+C:\Users\maryam\Documents\Visual Studio 2010\Projects\AlliedMirpur\AlliedMirpur\School\bin\Debug\School.exe.config
+C:\Users\maryam\Documents\Visual Studio 2010\Projects\AlliedMirpur\AlliedMirpur\School\obj\x86\Debug\School.exe
+C:\Users\maryam\Documents\Visual Studio 2010\Projects\AlliedMirpur\AlliedMirpur\School\obj\x86\Debug\School.pdb

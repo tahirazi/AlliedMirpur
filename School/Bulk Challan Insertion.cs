@@ -110,11 +110,7 @@ namespace School
         
         private void dataGridView1_CellLeave(object sender, DataGridViewCellEventArgs e)
         {
-            decimal a, b=20, balance=1010;
-            a = Convert.ToDecimal(dataGridView1.Rows[1]
-            .Cells["Registration Fee"].Value);
-            dataGridView1.Rows[1]
-           .Cells["Fine"].Value = balance.ToString();
+            
             
         }
     }
