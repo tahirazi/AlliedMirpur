@@ -110,7 +110,8 @@ namespace School
         
         private void dataGridView1_CellLeave(object sender, DataGridViewCellEventArgs e)
         {
-            
+            int x;
+            int y;
             
         }
     }
